@@ -1,0 +1,15 @@
+# IDEA
+.idea
+out
+*.iml
+
+# Stack
+.stack-work
+*.cabal
+
+# Excercism
+.exercism
+.solution.json
+
+# OS X
+.DS_Store
